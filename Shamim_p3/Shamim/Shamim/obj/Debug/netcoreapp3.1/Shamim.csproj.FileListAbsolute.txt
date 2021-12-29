@@ -1,0 +1,55 @@
+/Volumes/HD/david/Projects/Shamim/Shamim/obj/Debug/netcoreapp3.1/Shamim.csproj.AssemblyReference.cache
+/Volumes/HD/david/Projects/Shamim/Shamim/obj/Debug/netcoreapp3.1/Shamim.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/HD/david/Projects/Shamim/Shamim/obj/Debug/netcoreapp3.1/Shamim.AssemblyInfoInputs.cache
+/Volumes/HD/david/Projects/Shamim/Shamim/obj/Debug/netcoreapp3.1/Shamim.AssemblyInfo.cs
+/Volumes/HD/david/Projects/Shamim/Shamim/obj/Debug/netcoreapp3.1/Shamim.csproj.CoreCompileInputs.cache
+/Volumes/HD/david/Projects/Shamim/Shamim/bin/Debug/netcoreapp3.1/Shamim.deps.json
+/Volumes/HD/david/Projects/Shamim/Shamim/bin/Debug/netcoreapp3.1/Shamim.runtimeconfig.json
+/Volumes/HD/david/Projects/Shamim/Shamim/bin/Debug/netcoreapp3.1/Shamim.runtimeconfig.dev.json
+/Volumes/HD/david/Projects/Shamim/Shamim/bin/Debug/netcoreapp3.1/Shamim.dll
+/Volumes/HD/david/Projects/Shamim/Shamim/bin/Debug/netcoreapp3.1/Shamim.pdb
+/Volumes/HD/david/Projects/Shamim/Shamim/obj/Debug/netcoreapp3.1/Shamim.dll
+/Volumes/HD/david/Projects/Shamim/Shamim/obj/Debug/netcoreapp3.1/Shamim.pdb
+/Volumes/HD/david/Projects/Shamim/Shamim/obj/Debug/netcoreapp3.1/Shamim.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\LaSalle\3S - Multi-tier applications\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.exe
+C:\Users\gabri\OneDrive\LaSalle\3S - Multi-tier applications\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.deps.json
+C:\Users\gabri\OneDrive\LaSalle\3S - Multi-tier applications\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.runtimeconfig.json
+C:\Users\gabri\OneDrive\LaSalle\3S - Multi-tier applications\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\LaSalle\3S - Multi-tier applications\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.dll
+C:\Users\gabri\OneDrive\LaSalle\3S - Multi-tier applications\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.pdb
+C:\Users\gabri\OneDrive\LaSalle\3S - Multi-tier applications\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\LaSalle\3S - Multi-tier applications\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\LaSalle\3S - Multi-tier applications\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\LaSalle\3S - Multi-tier applications\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\LaSalle\3S - Multi-tier applications\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\LaSalle\3S - Multi-tier applications\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.dll
+C:\Users\gabri\OneDrive\LaSalle\3S - Multi-tier applications\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.pdb
+C:\Users\gabri\OneDrive\LaSalle\3S - Multi-tier applications\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.genruntimeconfig.cache
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.exe
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.deps.json
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.runtimeconfig.json
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.runtimeconfig.dev.json
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.dll
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.pdb
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.AssemblyInfo.cs
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.dll
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.pdb
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.genruntimeconfig.cache
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\part3.2\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.csproj.AssemblyReference.cache
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\part3.2\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\part3.2\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.AssemblyInfoInputs.cache
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\part3.2\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.AssemblyInfo.cs
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\part3.2\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.csproj.CoreCompileInputs.cache
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\part3.2\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.dll
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\part3.2\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.pdb
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\part3.2\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.exe
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\part3.2\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.deps.json
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\part3.2\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.runtimeconfig.json
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\part3.2\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.runtimeconfig.dev.json
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\part3.2\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.dll
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\part3.2\Shamim\Shamim\Shamim\bin\Debug\netcoreapp3.1\Shamim.pdb
+C:\Users\Andres\Desktop\WI21 AEC IT Programmer Analyst\TERM 3\MultiTier_Applications\Project\part3.2\Shamim\Shamim\Shamim\obj\Debug\netcoreapp3.1\Shamim.genruntimeconfig.cache
