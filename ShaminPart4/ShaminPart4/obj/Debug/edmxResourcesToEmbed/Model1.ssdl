@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ShaminBurguersModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="BasicHamburger">
+    <Key>
+      <PropertyRef Name="id_bh" />
+    </Key>
+    <Property Name="id_bh" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="bread" Type="nvarchar" MaxLength="50" />
+    <Property Name="meat" Type="nvarchar" MaxLength="50" />
+    <Property Name="add1" Type="nvarchar" MaxLength="50" />
+    <Property Name="add2" Type="nvarchar" MaxLength="50" />
+    <Property Name="add3" Type="nvarchar" MaxLength="50" />
+    <Property Name="add4" Type="nvarchar" MaxLength="50" />
+    <Property Name="price" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="id_sale" Type="int" />
+  </EntityType>
+  <EntityType Name="DeluxeHamburger">
+    <Key>
+      <PropertyRef Name="id_deluxe" />
+    </Key>
+    <Property Name="id_deluxe" Type="int" Nullable="false" />
+    <Property Name="bread" Type="nchar" MaxLength="10" />
+    <Property Name="meat" Type="nchar" MaxLength="10" />
+    <Property Name="price" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="id_sale" Type="int" />
+  </EntityType>
+  <EntityType Name="HealtyHamburger">
+    <Key>
+      <PropertyRef Name="id_hh" />
+    </Key>
+    <Property Name="id_hh" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="bread" Type="nvarchar" MaxLength="50" />
+    <Property Name="meat" Type="nvarchar" MaxLength="50" />
+    <Property Name="add1" Type="nvarchar" MaxLength="50" />
+    <Property Name="add2" Type="nvarchar" MaxLength="50" />
+    <Property Name="add3" Type="nvarchar" MaxLength="50" />
+    <Property Name="add4" Type="nvarchar" MaxLength="50" />
+    <Property Name="add5" Type="nvarchar" MaxLength="50" />
+    <Property Name="add6" Type="nvarchar" MaxLength="50" />
+    <Property Name="price" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="id_sale" Type="int" />
+  </EntityType>
+  <EntityType Name="Sales">
+    <Key>
+      <PropertyRef Name="id_sale" />
+    </Key>
+    <Property Name="id_sale" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="date" Type="datetime" />
+    <Property Name="total" Type="decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_BasicHamburger_Sales">
+    <End Role="Sales" Type="Self.Sales" Multiplicity="0..1" />
+    <End Role="BasicHamburger" Type="Self.BasicHamburger" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sales">
+        <PropertyRef Name="id_sale" />
+      </Principal>
+      <Dependent Role="BasicHamburger">
+        <PropertyRef Name="id_sale" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_DeluxeHamburger_Sales">
+    <End Role="Sales" Type="Self.Sales" Multiplicity="0..1" />
+    <End Role="DeluxeHamburger" Type="Self.DeluxeHamburger" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sales">
+        <PropertyRef Name="id_sale" />
+      </Principal>
+      <Dependent Role="DeluxeHamburger">
+        <PropertyRef Name="id_sale" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HealtyHamburger_Sales">
+    <End Role="Sales" Type="Self.Sales" Multiplicity="0..1" />
+    <End Role="HealtyHamburger" Type="Self.HealtyHamburger" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Sales">
+        <PropertyRef Name="id_sale" />
+      </Principal>
+      <Dependent Role="HealtyHamburger">
+        <PropertyRef Name="id_sale" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="ShaminBurguersModelStoreContainer">
+    <EntitySet Name="BasicHamburger" EntityType="Self.BasicHamburger" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="DeluxeHamburger" EntityType="Self.DeluxeHamburger" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="HealtyHamburger" EntityType="Self.HealtyHamburger" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sales" EntityType="Self.Sales" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_BasicHamburger_Sales" Association="Self.FK_BasicHamburger_Sales">
+      <End Role="Sales" EntitySet="Sales" />
+      <End Role="BasicHamburger" EntitySet="BasicHamburger" />
+    </AssociationSet>
+    <AssociationSet Name="FK_DeluxeHamburger_Sales" Association="Self.FK_DeluxeHamburger_Sales">
+      <End Role="Sales" EntitySet="Sales" />
+      <End Role="DeluxeHamburger" EntitySet="DeluxeHamburger" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HealtyHamburger_Sales" Association="Self.FK_HealtyHamburger_Sales">
+      <End Role="Sales" EntitySet="Sales" />
+      <End Role="HealtyHamburger" EntitySet="HealtyHamburger" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
